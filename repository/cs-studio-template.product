@@ -103,6 +103,7 @@
       <feature id="org.eclipse.platform"/>
       <feature id="org.csstudio.thirdparty.all.feature"/>
       <feature id="org.csstudio.email.feature"/>
+      <feature id="org.csstudio.template.product.configuration.feature"/>
    </features>
 
    <configurations>
