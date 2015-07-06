@@ -7,4 +7,9 @@
   </parent>
   <artifactId>features</artifactId>
   <packaging>pom</packaging>
+  <modules>
+      <module>
+          org.csstudio.template.product.configuration.feature
+      </module>
+  </modules>
 </project>
