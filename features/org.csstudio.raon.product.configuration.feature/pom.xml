@@ -7,6 +7,6 @@
     <version>0.0.1-SNAPSHOT</version>
     <artifactId>features</artifactId>
   </parent>
-  <artifactId>org.csstudio.template.product.configuration.feature</artifactId>
+  <artifactId>org.csstudio.raon.product.configuration.feature</artifactId>
   <packaging>eclipse-feature</packaging>
 </project>

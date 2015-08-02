@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?pde version="3.5"?>
 
-<product name="Cs-studio-template" uid="cs-studio-template" id="org.csstudio.product.product" application="org.csstudio.product.application" version="4.1.0" useFeatures="true" includeLaunchers="true">
+<product name="Cs-studio-raon" uid="cs-studio-raon" id="org.csstudio.product.product" application="org.csstudio.product.application" version="4.1.0" useFeatures="true" includeLaunchers="true">
 
    <aboutInfo>
       <image path="/org.csstudio.product/icons/cs-studio-about.png"/>
@@ -103,7 +103,6 @@
       <feature id="org.eclipse.platform"/>
       <feature id="org.csstudio.thirdparty.all.feature"/>
       <feature id="org.csstudio.email.feature"/>
-      <feature id="org.csstudio.template.product.configuration.feature"/>
    </features>
 
    <configurations>

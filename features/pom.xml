@@ -2,14 +2,14 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>org.csstudio</groupId>
-    <artifactId>template-product</artifactId>
+    <artifactId>raon-product</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>features</artifactId>
   <packaging>pom</packaging>
   <modules>
       <module>
-          org.csstudio.template.product.configuration.feature
+          org.csstudio.raon.product.configuration.feature
       </module>
   </modules>
 </project>

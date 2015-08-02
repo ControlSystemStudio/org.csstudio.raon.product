@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="org.csstudio.template.product.configuration.feature"
+      id="org.csstudio.raon.product.configuration.feature"
       label="Product configuration feature"
       version="0.0.1.qualifier">
 
